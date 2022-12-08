@@ -1,4 +1,4 @@
-#Attendance Management System
+# Attendance Management System
 A console project to create an Attendance System which is managed by an Admin.
 ## Installation
 
@@ -20,11 +20,11 @@ dotnet ef database update --project AttendanceSystem
 ```
 ⚠️ Must install ` Microsoft Visual Studio `, ` Microsoft SQL Server` and `SQL Server Management Studio` on your device
 
-##Features
-#1 Admin can create and remove teachers, students and courses.
-#2 Can assign courses to the teachers and the students and set the schedule for the courses. 
-#3 Students can give attendance in between the course schedule. 
-#4 Teachers can see the attendance list for a particular course.
+## Features
+1 Admin can create and remove teachers, students and courses.
+2 Can assign courses to the teachers and the students and set the schedule for the courses. 
+3 Students can give attendance in between the course schedule. 
+4 Teachers can see the attendance list for a particular course.
 
 ## Tech Stack
 
