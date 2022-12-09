@@ -21,10 +21,10 @@ dotnet ef database update --project AttendanceSystem
 ⚠️ Must install ` Microsoft Visual Studio `, ` Microsoft SQL Server` and `SQL Server Management Studio` on your device
 
 ## Features
-1 Admin can create and remove teachers, students and courses.
-2 Can assign courses to the teachers and the students and set the schedule for the courses. 
-3 Students can give attendance in between the course schedule. 
-4 Teachers can see the attendance list for a particular course.
+- Admin can create and remove teachers, students and courses.
+- Can assign courses to the teachers and the students and set the schedule for the courses. 
+- Students can give attendance in between the course schedule. 
+- Teachers can see the attendance list for a particular course.
 
 ## Tech Stack
 
@@ -32,4 +32,3 @@ dotnet ef database update --project AttendanceSystem
 
 **Server:**  Microsoft SQL Server
 
-**Architecture:** Layered Architecture (UI, Business Logic & Data Access Layer)
