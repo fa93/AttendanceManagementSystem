@@ -15,7 +15,7 @@ A console project to create an Attendance System which is managed by an Admin.
 
 4) Now, Create and update the migrations by running the following commands on ``` Package Manager Console ```
 ```bash
-dotnet-ef migrations add Give_A_Name --project AttendanceSystem
+dotnet-ef migrations add AnyName --project AttendanceSystem
 dotnet ef database update --project AttendanceSystem
 ```
 ⚠️ Must install ` Microsoft Visual Studio `, ` Microsoft SQL Server` and `SQL Server Management Studio` on your device
